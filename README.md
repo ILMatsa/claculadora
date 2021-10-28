@@ -1,1 +1,1 @@
-# claculador
+# claculadora
